@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.TriangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-13T14:41:36" hostname="XIAOMINOTEBOOK-" time="0.034">
+  <properties/>
+  <testcase name="不等边三角形" classname="example.TriangleTest" time="0.026"/>
+  <testcase name="等边三角形" classname="example.TriangleTest" time="0.002"/>
+  <testcase name="输入错误" classname="example.TriangleTest" time="0.001"/>
+  <testcase name="非三角形" classname="example.TriangleTest" time="0.001"/>
+  <testcase name="等腰三角形" classname="example.TriangleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
